@@ -1,5 +1,4 @@
 # AbilityKit - ability development kit
-
 ## Introduction
 
 The cpp file is the implementation of AbilityKit class.
